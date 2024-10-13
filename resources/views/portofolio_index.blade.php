@@ -1,6 +1,6 @@
 @extends('layout_portofolio')
 @section('content')
-    <section class="bg-gray-200" id="hero-section">z
+    <section class="bg-gray-200" id="hero-section">
 
 
 
@@ -188,52 +188,52 @@
                     </ul>
                 </div>
                 <!-- <div
-                                                                                                                                                                                                class="bg-gray-900 text-white py-12 px-6 rounded-3xl text-center font-bold text-2xl border-4 border-cyan-400"
-                                                                                                                                                                                                data-aos="zoom-in"
-                                                                                                                                                                                              >
-                                                                                                                                                                                                <img
-                                                                                                                                                                                                  src="view/images/Instagram New 2022 Line.png"
-                                                                                                                                                                                                  alt="instagram"
-                                                                                                                                                                                                  class="img-logo mx-auto pb-4"
-                                                                                                                                                                                                />
-                                                                                                                                                                                                <a href="https://www.instagram.com/ipoel_amri12/" class=""
-                                                                                                                                                                                                  >INSTAGRAM</a
-                                                                                                                                                                                                ><br />
-                                                                                                                                                                                                <a
-                                                                                                                                                                                                  href="https://www.instagram.com/ipoel_amri12/"
-                                                                                                                                                                                                  class="text-cyan-400"
-                                                                                                                                                                                                  >@ipoel_amri12</a
-                                                                                                                                                                                                >
-                                                                                                                                                                                              </div>
-                                                                                                                                                                                              <div
-                                                                                                                                                                                                class="bg-gray-900 text-white py-12 px-2 rounded-3xl text-center font-bold text-2xl border-4 border-cyan-400"
-                                                                                                                                                                                                data-aos="zoom-in"
-                                                                                                                                                                                              >
-                                                                                                                                                                                                <img
-                                                                                                                                                                                                  src="view/images/GMail New Icon.png"
-                                                                                                                                                                                                  alt="gmail"
-                                                                                                                                                                                                  class="img-logo mx-auto pb-4"
-                                                                                                                                                                                                />
-                                                                                                                                                                                                <a href="mailto:ipoelamri94@gmail.com" class="">EMAIL</a><br />
-                                                                                                                                                                                                <a href="mailto:ipoelamri94@gmail.com" class="text-cyan-400 text-md"
-                                                                                                                                                                                                  >ipoelamri94@gmail.com</a
-                                                                                                                                                                                                >
-                                                                                                                                                                                              </div>
-                                                                                                                                                                                              <div
-                                                                                                                                                                                                class="bg-gray-900 text-white py-12 px-6 rounded-3xl text-center font-bold text-2xl border-4 border-cyan-400"
-                                                                                                                                                                                                data-aos="zoom-in"
-                                                                                                                                                                                              >
-                                                                                                                                                                                                <img
-                                                                                                                                                                                                  src="view/images/GitHub Circle Icon.png"
-                                                                                                                                                                                                  alt="github"
-                                                                                                                                                                                                  class="img-logo mx-auto pb-4"
-                                                                                                                                                                                                />
-                                                                                                                                                                                                <a href="https://github.com/ipoelamri" class="">GITHUB</a>
-                                                                                                                                                                                                <br />
-                                                                                                                                                                                                <a href="https://github.com/ipoelamri" class="text-cyan-400"
-                                                                                                                                                                                                  >IPOELAMRI</a
-                                                                                                                                                                                                >
-                                                                                                                                                                                              </div> -->
+                                                                                                                                                                                                        class="bg-gray-900 text-white py-12 px-6 rounded-3xl text-center font-bold text-2xl border-4 border-cyan-400"
+                                                                                                                                                                                                        data-aos="zoom-in"
+                                                                                                                                                                                                      >
+                                                                                                                                                                                                        <img
+                                                                                                                                                                                                          src="view/images/Instagram New 2022 Line.png"
+                                                                                                                                                                                                          alt="instagram"
+                                                                                                                                                                                                          class="img-logo mx-auto pb-4"
+                                                                                                                                                                                                        />
+                                                                                                                                                                                                        <a href="https://www.instagram.com/ipoel_amri12/" class=""
+                                                                                                                                                                                                          >INSTAGRAM</a
+                                                                                                                                                                                                        ><br />
+                                                                                                                                                                                                        <a
+                                                                                                                                                                                                          href="https://www.instagram.com/ipoel_amri12/"
+                                                                                                                                                                                                          class="text-cyan-400"
+                                                                                                                                                                                                          >@ipoel_amri12</a
+                                                                                                                                                                                                        >
+                                                                                                                                                                                                      </div>
+                                                                                                                                                                                                      <div
+                                                                                                                                                                                                        class="bg-gray-900 text-white py-12 px-2 rounded-3xl text-center font-bold text-2xl border-4 border-cyan-400"
+                                                                                                                                                                                                        data-aos="zoom-in"
+                                                                                                                                                                                                      >
+                                                                                                                                                                                                        <img
+                                                                                                                                                                                                          src="view/images/GMail New Icon.png"
+                                                                                                                                                                                                          alt="gmail"
+                                                                                                                                                                                                          class="img-logo mx-auto pb-4"
+                                                                                                                                                                                                        />
+                                                                                                                                                                                                        <a href="mailto:ipoelamri94@gmail.com" class="">EMAIL</a><br />
+                                                                                                                                                                                                        <a href="mailto:ipoelamri94@gmail.com" class="text-cyan-400 text-md"
+                                                                                                                                                                                                          >ipoelamri94@gmail.com</a
+                                                                                                                                                                                                        >
+                                                                                                                                                                                                      </div>
+                                                                                                                                                                                                      <div
+                                                                                                                                                                                                        class="bg-gray-900 text-white py-12 px-6 rounded-3xl text-center font-bold text-2xl border-4 border-cyan-400"
+                                                                                                                                                                                                        data-aos="zoom-in"
+                                                                                                                                                                                                      >
+                                                                                                                                                                                                        <img
+                                                                                                                                                                                                          src="view/images/GitHub Circle Icon.png"
+                                                                                                                                                                                                          alt="github"
+                                                                                                                                                                                                          class="img-logo mx-auto pb-4"
+                                                                                                                                                                                                        />
+                                                                                                                                                                                                        <a href="https://github.com/ipoelamri" class="">GITHUB</a>
+                                                                                                                                                                                                        <br />
+                                                                                                                                                                                                        <a href="https://github.com/ipoelamri" class="text-cyan-400"
+                                                                                                                                                                                                          >IPOELAMRI</a
+                                                                                                                                                                                                        >
+                                                                                                                                                                                                      </div> -->
             </div>
         </div>
     </section>
